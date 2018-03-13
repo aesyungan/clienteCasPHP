@@ -15,7 +15,7 @@
  */
 
 // Load the settings from the central config file
-require_once 'config.php';
+require_once 'config_1.php';
 // Load the CAS lib
 require_once $phpcas_path . '/CAS.php';
 
